@@ -1,4 +1,4 @@
-# Data_Science_Projects_Mar-Apr_2023
+# Data Science Projects Mar-Apr 2023
 
 "Data_Science_Projects_Mar-Apr_2023" is a repository created for the members of the Sigma Club at NIT-T to contribute their data analytics projects. This repository provides a platform for members to showcase their skills and collaborate on projects related to data analysis, visualization, machine learning, and other data-driven fields. The projects submitted by members are reviewed by heads of the analytics domain of club and merged into the repository, making it a curated collection of high-quality data analytics projects.
 
