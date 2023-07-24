@@ -1,4 +1,4 @@
-# Project Name: Fiscal Policies and Income Inequality Impact Study
+# Project Name: Quantitative analysis of Impact of Fiscal Policy on Income Inequality
 
 This project aims to study the impact made by fiscal policies in reducing income inequality. It involves collecting and processing data from various government resources to build time series models based on ARIMA (AutoRegressive Integrated Moving Average). The project also includes two separate time series models: one to capture the general trend using previous data and another to isolate the trend specifically caused by the implemented fiscal policies. The difference between these two models is analyzed to understand the impact of the policies on income inequality. The introduction f Casual Impact by google has made it even more efficient to analyse the true impact of a certain policy
 
